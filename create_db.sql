@@ -77,7 +77,7 @@ create table reviews
 	face			varchar(20)		not null,
 	dateandtime		timestamp		default current_timestamp
 );
-a
+
 
 
 
