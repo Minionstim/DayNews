@@ -2,7 +2,7 @@ create database n;
 
 use n;
 
-#管理员表
+##管理员表
 create table manager
 (
 	id				int				auto_increment			primary key,
